@@ -1,4 +1,4 @@
-@import url("resource:///org/gtk/libgtk/theme/Adwaita/gtk-contained-dark.css");
+@import url("../adw-gtk4-dark/base.css");
 
 @define-color onedark_blue #61afef;
 @define-color onedark_cyan #56b6c2;
