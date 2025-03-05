@@ -1,9 +1,9 @@
 [X-GNOME-Metatheme]
-Name=Adwaita-One-Dark
+Name=one_dark_adwaita
 Type=X-GNOME-Metatheme
-Comment=Atom One Dark Theme
+Comment=OneDark Theme in GTK
 Encoding=UTF-8
-GtkTheme=Adwaita-One-Dark
+GtkTheme=one_dark_adwaita
 IconTheme=Adwaita
 CursorTheme=Adwaita
 CursorSize=24
